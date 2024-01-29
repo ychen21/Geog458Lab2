@@ -15,7 +15,7 @@ I thought I would get a 50/50 on the wildlife dataset, with half of the word rel
 ![plot](img/wildlifelocation.png)
 ![plot](img/microsoft.png)
 
-[UW Food Based on Location given](assets/locationfood.csv)
-[Microsoft&Seattle Based on Keyword](assets/microsoft.csv)
-[UW Food based on Keyword](assets/uwfood.csv)
+[UW Food Based on Location given](assets/locationfood.csv)  
+[Microsoft&Seattle Based on Keyword](assets/microsoft.csv)  
+[UW Food based on Keyword](assets/uwfood.csv)  
 [UW&Wildlife Based on Keyword](assets/uwfood.csv)
