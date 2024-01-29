@@ -15,3 +15,4 @@ I thought I would get a 50/50 on the wildlife dataset, with half of the word rel
 ![plot](img/wildlifelocation.png)
 ![plot](img/microsoft.png)
 
+[UWFoodBasedonLocation](assets/locationfood.csv)
