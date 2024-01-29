@@ -12,4 +12,4 @@ This makes me think that maybe next time only counting the vocabulary from the t
 
 ## Something I expected
 I thought I would get a 50/50 on the wildlife dataset, with half of the word related to wildlife and another half to UW. However, I guess not everybody cares about the animals around us and that is understandable. The influence and power of UW, especially our football games, are very strong. Because I am not a sports person at all, the fact that people are crazy about football really surprised me. 
-![plot](img/microsoft)
+![plot](img/wildlifelocation.png)
